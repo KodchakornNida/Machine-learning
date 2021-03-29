@@ -1,6 +1,6 @@
 # Machine-learning
 
-#### Predictive Analytics
+### Predictive Analytics
 
   Prediction/Forecasting
   - Linear Regression single variable (Gradient Descent) 
